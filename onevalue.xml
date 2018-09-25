@@ -1,4 +1,4 @@
-﻿<onevalue port="8221" thread_num="15" hash_value_max="80" work_dir="mydb" daemonize="0" guard="0" log_file="" unix_socket_file="">
+﻿<onevalue port="8221" thread_num="8" hash_value_max="80" work_dir="mydb" daemonize="0" guard="0" log_file="" unix_socket_file="">
   <!-- port: onevalue工作端口 -->
   <!-- thread_num: 线程数 -->
   <!-- hash_value_max: hash槽个数 -->
